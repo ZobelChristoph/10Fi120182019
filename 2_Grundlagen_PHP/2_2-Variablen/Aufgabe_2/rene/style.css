@@ -1,0 +1,11 @@
+form {
+    border-style: dotted;
+    border-radius: 5px;
+    padding: 20px;
+}
+
+h1 {
+    text-align: center;
+    color: rgb(19, 241, 149);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
