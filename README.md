@@ -17,12 +17,14 @@
 │   │   │       ├── kino.php
 │   │   │       └── style.css
 │   │   └── Aufgabe_4
-│   │       └── aufgabe4_daniel-schwarz.php
+│   │       ├── aufgabe4_daniel-schwarz.php
+│   │       └── aufgabe4_slawa-polnik.php
 │   └── Weihnachtsbaeume
 │       ├── Tannenbaum_Viktoria_Seubert.php
 │       ├── weihnachtsbaum_Daniel-Schwarz.php
 │       └── weihnachtsbaum_Wjatscheslav.php
 └── README.md
+
 
 
 ```
