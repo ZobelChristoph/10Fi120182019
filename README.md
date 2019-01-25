@@ -23,15 +23,18 @@
 │   │       └── rene
 │   │           ├── alcohol.html
 │   │           └── calcalcohol.php
+│   ├── 2_3-Arrays
+│   │   ├── 2_3_Uebung_1-Chris.php
+│   │   ├── 2_3_Uebung_2-Quirin.php
+│   │   ├── 2_3_Uebung_3-Daniel-Schwarz.php
+│   │   └── 2_3_Uebung_4-Rene
+│   │       ├── index.html
+│   │       └── lotto.php
 │   └── Weihnachtsbaeume
 │       ├── Tannenbaum_Viktoria_Seubert.php
 │       ├── weihnachtsbaum_Daniel-Schwarz.php
 │       └── weihnachtsbaum_Wjatscheslav.php
 └── README.md
-
-
-
-
 ```
 
 ## Coding Style Guide PSR-2, bitte stets beachten
