@@ -32,13 +32,22 @@
 │   │   │   └── lotto.php
 │   │   ├── 2_3_Uebung_5-chris-und-matthias_Musteloesung-ZOBEL.php
 │   │   └── 2_3_Uebung_5-chris-und-matthias.php
+│   ├── 2_4-Mehrimensionale-Arrays
+│   │   ├── 2_4_Uebung_1
+│   │   │   └── 2_4_Uebung_1-Viktoria.php
+│   │   ├── 2_4_Uebung_2
+│   │   │   └── 2_4_Uebung_2-Lukas.php
+│   │   ├── 2_4_Uebung_3
+│   │   │   └── jessica
+│   │   │       ├── kinoreservierung.html
+│   │   │       └── kinoreservierung.php
+│   │   └── Aufgabe1_Buecher
 │   └── Weihnachtsbaeume
 │       ├── Tannenbaum_Viktoria_Seubert.php
 │       ├── weihnachtsbaum_Daniel-Schwarz.php
 │       └── weihnachtsbaum_Wjatscheslav.php
 ├── README.md
 ├── Skript Grundlagen der Programmierung_upload.docx
-└── Webgrundlagenskript.rar
 ```
 
 ## Coding Style Guide PSR-2, bitte stets beachten
