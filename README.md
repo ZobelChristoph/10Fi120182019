@@ -48,7 +48,11 @@
 │   ├── 2_6-Schleifen
 │   │   ├── 2_6-Uebung_1-4_Chris-Saegner.php
 │   │   ├── 2_6Uebung5ChrisSaegner.html
-│   │   └── 2_6Uebung5ChrisSaegner.php
+│   │   ├── 2_6Uebung5ChrisSaegner.php
+│   │   └── 2_6Uebung6MelanieJekeli.php
+│   ├── 2_7-Funktionen
+│   │   ├── 2_7-funktionen_Uebung_1-2re_Daniel_Schwarz.php
+│   │   └── Uebungen_zu_Funktionen_A1&2_Quirin.php
 │   └── Weihnachtsbaeume
 │       ├── Tannenbaum_Viktoria_Seubert.php
 │       ├── weihnachtsbaum_Daniel-Schwarz.php
@@ -56,6 +60,7 @@
 ├── README.md
 ├── Skript Grundlagen der Programmierung_upload.docx
 └── Webgrundlagenskript.rar
+
 ```
 
 ## Coding Style Guide PSR-2, bitte stets beachten
