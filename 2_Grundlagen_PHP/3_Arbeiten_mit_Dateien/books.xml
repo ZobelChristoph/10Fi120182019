@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<root>
+    <book>
+        <title>To Kill A Mockingbird</title>
+        <author>Harper Lee</author>
+        <available>1</available>
+        <pages>336</pages>
+        <isbn>9780061120084</isbn>
+    </book>
+    <book>
+        <title>1984</title>
+        <author>George Orwell</author>
+        <available>1</available>
+        <pages>267</pages>
+        <isbn>9780547249643</isbn>
+    </book>
+    <book>
+        <title>One Hundred Years Of Solitude</title>
+        <author>Gabriel Garcia Marquez</author>
+        <available></available>
+        <pages>457</pages>
+        <isbn>9785267006323</isbn>
+    </book>
+</root>
